@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+Simple app to track budgets and expenses and store them in local browser storage.
+Made with React as a practice project following the tutorial [How To Create A Budget App With React](https://www.youtube.com/watch?v=yz8x71BiGXg).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
